@@ -1,0 +1,8 @@
+##OpenGL GLIB
+Perspective 70
+LookAt  0 0 3     0 0 0    0 1 0
+
+Vertex   life.vert
+Fragment life.frag
+Program Life
+Sphere 1 50 50
